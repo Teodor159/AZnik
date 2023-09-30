@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/traktorpozadi"
+    tools:context=".TankovaniActivity">
+
+    <!-- Add your ImageView elements for čerpačka and vozidlo here -->
+
+    <TextView
+        android:id="@+id/tankovano_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tankováno litrů:"
+
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/tankovano_input"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        app:layout_constraintTop_toTopOf="@id/tankovano_label"
+        app:layout_constraintStart_toEndOf="@id/tankovano_label"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/koncovy_stav_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Koncový stav:"
+        app:layout_constraintTop_toBottomOf="@id/tankovano_label"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/koncovy_stav_input"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        app:layout_constraintTop_toTopOf="@id/koncovy_stav_label"
+        app:layout_constraintStart_toEndOf="@id/koncovy_stav_label"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/submit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send"
+        app:layout_constraintTop_toBottomOf="@id/koncovy_stav_input"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

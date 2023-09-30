@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "817966830259",
+    "project_id": "aznik-app",
+    "storage_bucket": "aznik-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817966830259:android:487fba6f1830b7bf37d6c6",
+        "android_client_info": {
+          "package_name": "com.example.aznik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817966830259-eq4q5nihk791780tvcmnsjedgif7hld0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aznik",
+            "certificate_hash": "ab7c3cbaa5ce2b1c7e12b3ab5cc2235bc408ba1b"
+          }
+        },
+        {
+          "client_id": "817966830259-tast66thu7eektggtk5ekviqj9hdp2pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo-6VssMmU5g23UdE3Yi9b9YkEIMUo-mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817966830259-tast66thu7eektggtk5ekviqj9hdp2pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

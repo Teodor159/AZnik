@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aznik-app",
+  "private_key_id": "4745d769282dbf39270703ed1f16c7cf8ab53b91",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDR2mqYCYbJVPWX\nGzmYXRKEqTbj4JoFYSC0D8FdIxluXZwoeyA/rp0z9IrosKvJsEAUlOxClUJz8nRi\n3o3pM4R7BoC7YXcl8NmlBF3vHQzeVNfU44Yc1//71pTTOq/vWuBBD/3MLU5khkPo\nTU34REHD9JgimtQN6QtvQAfmFeUkbjla4qaGcJEGNzMYnIyWwn2CWjWZnU0JwGl3\nfa1kRoSgWjJoIMbfItLiGmvhVJ7mzEPtrYkiF+uwS79mGfwhRjW1QReXA46LTuHc\nI499t/DOePXt9Z11mYtF+H+4oslX5YJDG8cEu1ar+ie+JqejTZ2GLHgNvUtalpsg\nxAc/499FAgMBAAECggEAIXDQVq0B9RhcUHmOqoh+WHSMojCa6quJJhhypFBhD5TM\nOykvwOYm9+4KqrzoiynSdFUs9wlI/ygOQukbLSPAA0jMf8+uyHWCgUjaXS3AbLeR\nc0PUjckf6jZOHgD2o0pUfRm6xGwd12gL7ztOZvcdkcfq7GzGyPavk0ldWN15V94M\n1rDvPYTlzq3q7IoX1QsDegG9UWMs5EfQprndHyuuha47ACmjOWlYNmC8H6XS/j2h\n/kuzVCMwB2+tHopcTlj3DTzoKs39ja8qQ+IY8qzaqrRidmbBa2KEhxzbry9E4eGs\n0bBuvauvsRR4urUPtbeytpgXnfIXbokx1tp04JPcGwKBgQDqRU9AzexTEY4AH5PL\n6NwBX+vB05KwJCTCOBIf42/YSKvocqxS+getKfyxwJNju9AkqOFetADCj+u2rQ0q\nobvIqlvn6VP0S/aNf2jI3XO7kQ4Yfqob95A0J5c/fM02kmnfznE+04c/WlE8jtCN\n6PtIONXkpT/FInO2jne7PW9tBwKBgQDlUVG0XxP6NmlBOmKSJotL7fGyx+FNR717\nk7tSQT6qDc4dSWh02YjHLg+esE2pbNXmnwyR+e+Xwx+KFYmd95LS9kftJTgRrpqA\n083c/+Vb/kiH11J4zJCg/0nCpBzz/3qcxaaDe7MoJx0gZd7MaE3Jq3KjSqQMm55d\n/qZdHmTKUwKBgBWl4fTzEmt6q8yHHnkxQ2M9IeP/UQbF0D/CPqqDscoirQAF2Lay\nNBNkVd13FieZK1q34FuH9qoD8pwm0Zim6VtZorSDcyaX/miE5YHqNM+YT90jl0SO\nU9z965QKTExGq1HrGbvcgBrylZ8q80qpxM6fseQ3APWOgXLVJ2s9+hXxAoGBAJOn\nNqqjBaP4YPFk/I8KTmrHfPcWiFVQOgtV5iliZUztsqdc2utSHiXR3LDa6EaNE3V5\nN4jOm5zmQGqSz5dtD5bSiSGC84U/HbCRsF36Tt5a7qy40huB7CYd+opfTV02ROao\nxTyn64WRGcoAjeKjzmJqCFhn+RU9Jk1zZ/9RUKiNAoGAXwyaPoyytit4L0cKpzS5\nJoVAz/NQsufGLOvysC0ZZYg+ZlLLe813W4GI3JKNqr4Euez/NcuKepC0AVuzil1P\nU8XMizCfa/VvlXv+oOKs57v30g5Kr+n2z8d35SWqPJ7ElRrEDllDdefy3pFYdm3X\nF0ulsr2ykgBJKGPi8kGQ2RY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheets@aznik-app.iam.gserviceaccount.com",
+  "client_id": "116913253050546712008",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheets%40aznik-app.iam.gserviceaccount.com"
+}
